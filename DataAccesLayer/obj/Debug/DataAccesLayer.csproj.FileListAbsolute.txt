@@ -1,0 +1,12 @@
+C:\Users\Victus\source\repos\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Victus\source\repos\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Victus\source\repos\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+C:\Users\Victus\source\repos\DataAccesLayer\obj\Debug\DataAccesLayer.pdb
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\bin\Debug\DataAccesLayer.dll
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\bin\Debug\DataAccesLayer.pdb
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.AssemblyReference.cache
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\obj\Debug\DataAccesLayer.csproj.CoreCompileInputs.cache
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\obj\Debug\DataAccesLayer.dll
+D:\Code Generatore GitHub\Code-generator\DataAccesLayer\obj\Debug\DataAccesLayer.pdb

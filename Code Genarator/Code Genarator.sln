@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35527.113 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UILayer", "UILayer.csproj", "{EFA061D3-300B-4286-A17D-085E667D7987}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BussenisLayer", "..\BussenisLayer\BussenisLayer.csproj", "{56AF99F6-FCE8-497B-A34C-1EC57BC1411D}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataAccesLayer", "..\DataAccesLayer\DataAccesLayer.csproj", "{D6F9F5F2-9E32-41B5-BB0E-C51445912806}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EFA061D3-300B-4286-A17D-085E667D7987}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EFA061D3-300B-4286-A17D-085E667D7987}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EFA061D3-300B-4286-A17D-085E667D7987}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EFA061D3-300B-4286-A17D-085E667D7987}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56AF99F6-FCE8-497B-A34C-1EC57BC1411D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56AF99F6-FCE8-497B-A34C-1EC57BC1411D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56AF99F6-FCE8-497B-A34C-1EC57BC1411D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56AF99F6-FCE8-497B-A34C-1EC57BC1411D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D6F9F5F2-9E32-41B5-BB0E-C51445912806}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6F9F5F2-9E32-41B5-BB0E-C51445912806}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6F9F5F2-9E32-41B5-BB0E-C51445912806}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6F9F5F2-9E32-41B5-BB0E-C51445912806}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

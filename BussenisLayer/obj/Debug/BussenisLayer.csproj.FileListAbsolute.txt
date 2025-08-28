@@ -1,0 +1,18 @@
+C:\Users\Victus\source\repos\BussenisLayer\bin\Debug\BussenisLayer.dll
+C:\Users\Victus\source\repos\BussenisLayer\bin\Debug\BussenisLayer.pdb
+C:\Users\Victus\source\repos\BussenisLayer\bin\Debug\DataAccesLayer.dll
+C:\Users\Victus\source\repos\BussenisLayer\bin\Debug\DataAccesLayer.pdb
+C:\Users\Victus\source\repos\BussenisLayer\obj\Debug\BussenisLayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\BussenisLayer\obj\Debug\BussenisLayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\BussenisLayer\obj\Debug\Bussenis.9CF0337C.Up2Date
+C:\Users\Victus\source\repos\BussenisLayer\obj\Debug\BussenisLayer.dll
+C:\Users\Victus\source\repos\BussenisLayer\obj\Debug\BussenisLayer.pdb
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\bin\Debug\BussenisLayer.dll
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\bin\Debug\BussenisLayer.pdb
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\bin\Debug\DataAccesLayer.dll
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\bin\Debug\DataAccesLayer.pdb
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\obj\Debug\BussenisLayer.csproj.AssemblyReference.cache
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\obj\Debug\BussenisLayer.csproj.CoreCompileInputs.cache
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\obj\Debug\Bussenis.9CF0337C.Up2Date
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\obj\Debug\BussenisLayer.dll
+D:\Code Generatore GitHub\Code-generator\BussenisLayer\obj\Debug\BussenisLayer.pdb

@@ -1,0 +1,36 @@
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\Code Genarator.exe.config
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\Code Genarator.exe
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\Code Genarator.pdb
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\DataAccesLayer.dll
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\DataAccesLayer.pdb
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\UILayer.csproj.AssemblyReference.cache
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code_Genarator.Properties.Resources.resources
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\UILayer.csproj.GenerateResource.cache
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\UILayer.csproj.Up2Date
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code Genarator.exe
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code Genarator.pdb
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\BussenisLayer.dll
+C:\Users\Victus\source\repos\Code Genarator\bin\Debug\BussenisLayer.pdb
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code_Genarator.frmDealingWithDatabase.resources
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code_Genarator.frmPathFiles.resources
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code_Genarator.frmLogin.resources
+C:\Users\Victus\source\repos\Code Genarator\obj\Debug\Code Genarator.exe.config
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\Code Genarator.exe.config
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\Code Genarator.exe
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\Code Genarator.pdb
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\BussenisLayer.dll
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\DataAccesLayer.dll
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\BussenisLayer.pdb
+D:\Code Generatore GitHub\Code-generator\Code Genarator\bin\Debug\DataAccesLayer.pdb
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\UILayer.csproj.AssemblyReference.cache
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code Genarator.exe.config
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code_Genarator.frmDealingWithDatabase.resources
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code_Genarator.frmLogin.resources
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code_Genarator.frmPathFiles.resources
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code_Genarator.Properties.Resources.resources
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\UILayer.csproj.GenerateResource.cache
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\UILayer.csproj.CoreCompileInputs.cache
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\UILayer.csproj.Up2Date
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code Genarator.exe
+D:\Code Generatore GitHub\Code-generator\Code Genarator\obj\Debug\Code Genarator.pdb
